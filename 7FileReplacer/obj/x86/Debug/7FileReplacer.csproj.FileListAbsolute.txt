@@ -1,0 +1,9 @@
+D:\Developer\Project\7FileReplacer\7FileReplacer\bin\Debug\7FileReplacer.exe
+D:\Developer\Project\7FileReplacer\7FileReplacer\bin\Debug\7FileReplacer.pdb
+D:\Developer\Project\7FileReplacer\7FileReplacer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Developer\Project\7FileReplacer\7FileReplacer\obj\x86\Debug\_7FileReplacer.MainForm.resources
+D:\Developer\Project\7FileReplacer\7FileReplacer\obj\x86\Debug\_7FileReplacer.Properties.Resources.resources
+D:\Developer\Project\7FileReplacer\7FileReplacer\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Developer\Project\7FileReplacer\7FileReplacer\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Developer\Project\7FileReplacer\7FileReplacer\obj\x86\Debug\7FileReplacer.exe
+D:\Developer\Project\7FileReplacer\7FileReplacer\obj\x86\Debug\7FileReplacer.pdb
